@@ -3,3 +3,4 @@ Staging example line
 Staging example line
 New change for diff example
 Feature 2 work added
+Feature 3 working branch
